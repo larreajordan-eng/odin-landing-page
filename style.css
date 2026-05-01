@@ -1,0 +1,30 @@
+body {
+    font-family: roboto, 'Times New Roman', Times, serif;
+}
+
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.top-bar {
+    display: flex;
+    align-items: center;
+    background-color: #1F2937;
+    color: white;
+}
+
+.top-links {
+    display: flex;
+    gap: 15px;
+}
+
+.logo {
+    margin-right: auto;
+}
