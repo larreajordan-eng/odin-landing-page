@@ -18,6 +18,8 @@ a {
     align-items: center;
     background-color: #1F2937;
     color: white;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 .top-links {
